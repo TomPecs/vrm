@@ -1,7 +1,9 @@
 # VoiceRangeMarker [Fivem]
 
 author 'TomPecs#3099'
+
 description 'StandAlone[VRM Script] - Voice Range Marker script // Original idea and Credits to: gamziboi/ESXCrackhead/aabbdev'
+
 version '0.1.0'
 
 
